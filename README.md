@@ -4,7 +4,7 @@
 
 If you have problems with grayscale images with no channel or single channel, it could be useful to check 
 
- 	Grayscale vs Colour images for Deep Learning.ipynb
+[Zero_Channel_Images.ipynb](Zero_Channel_Images.ipynb)
 
 Hf with images in DL!
 @muntisa
